@@ -1,0 +1,88 @@
+D:\Usuarios\Escritorio\Tareas\2023 I\Graficación y videojuegos\repos\Obj\Obj\bin\Debug\Obj.exe.config
+D:\Usuarios\Escritorio\Tareas\2023 I\Graficación y videojuegos\repos\Obj\Obj\bin\Debug\Obj.exe
+D:\Usuarios\Escritorio\Tareas\2023 I\Graficación y videojuegos\repos\Obj\Obj\bin\Debug\Obj.pdb
+D:\Usuarios\Escritorio\Tareas\2023 I\Graficación y videojuegos\repos\Obj\Obj\obj\Debug\Obj.csproj.AssemblyReference.cache
+D:\Usuarios\Escritorio\Tareas\2023 I\Graficación y videojuegos\repos\Obj\Obj\obj\Debug\Obj.csproj.SuggestedBindingRedirects.cache
+D:\Usuarios\Escritorio\Tareas\2023 I\Graficación y videojuegos\repos\Obj\Obj\obj\Debug\Obj.Form1.resources
+D:\Usuarios\Escritorio\Tareas\2023 I\Graficación y videojuegos\repos\Obj\Obj\obj\Debug\Obj.Properties.Resources.resources
+D:\Usuarios\Escritorio\Tareas\2023 I\Graficación y videojuegos\repos\Obj\Obj\obj\Debug\Obj.csproj.GenerateResource.cache
+D:\Usuarios\Escritorio\Tareas\2023 I\Graficación y videojuegos\repos\Obj\Obj\obj\Debug\Obj.csproj.CoreCompileInputs.cache
+D:\Usuarios\Escritorio\Tareas\2023 I\Graficación y videojuegos\repos\Obj\Obj\obj\Debug\Obj.exe
+D:\Usuarios\Escritorio\Tareas\2023 I\Graficación y videojuegos\repos\Obj\Obj\obj\Debug\Obj.pdb
+D:\Usuarios\Escritorio\Tareas\2023 I\Graficación y videojuegos\repos\Parcial IV\Obj\bin\Debug\Obj.exe.config
+D:\Usuarios\Escritorio\Tareas\2023 I\Graficación y videojuegos\repos\Parcial IV\Obj\bin\Debug\Obj.exe
+D:\Usuarios\Escritorio\Tareas\2023 I\Graficación y videojuegos\repos\Parcial IV\Obj\bin\Debug\Obj.pdb
+D:\Usuarios\Escritorio\Tareas\2023 I\Graficación y videojuegos\repos\Parcial IV\Obj\obj\Debug\Obj.csproj.AssemblyReference.cache
+D:\Usuarios\Escritorio\Tareas\2023 I\Graficación y videojuegos\repos\Parcial IV\Obj\obj\Debug\Obj.csproj.SuggestedBindingRedirects.cache
+D:\Usuarios\Escritorio\Tareas\2023 I\Graficación y videojuegos\repos\Parcial IV\Obj\obj\Debug\Obj.Form1.resources
+D:\Usuarios\Escritorio\Tareas\2023 I\Graficación y videojuegos\repos\Parcial IV\Obj\obj\Debug\Obj.Properties.Resources.resources
+D:\Usuarios\Escritorio\Tareas\2023 I\Graficación y videojuegos\repos\Parcial IV\Obj\obj\Debug\Obj.csproj.GenerateResource.cache
+D:\Usuarios\Escritorio\Tareas\2023 I\Graficación y videojuegos\repos\Parcial IV\Obj\obj\Debug\Obj.csproj.CoreCompileInputs.cache
+D:\Usuarios\Escritorio\Tareas\2023 I\Graficación y videojuegos\repos\Parcial IV\Obj\obj\Debug\Obj.exe
+D:\Usuarios\Escritorio\Tareas\2023 I\Graficación y videojuegos\repos\Parcial IV\Obj\obj\Debug\Obj.pdb
+C:\Users\garci\Downloads\Parcial IV\Parcial IV\Obj\bin\Debug\Obj.exe.config
+C:\Users\garci\Downloads\Parcial IV\Parcial IV\Obj\bin\Debug\Obj.exe
+C:\Users\garci\Downloads\Parcial IV\Parcial IV\Obj\bin\Debug\Obj.pdb
+C:\Users\garci\Downloads\Parcial IV\Parcial IV\Obj\obj\Debug\Obj.csproj.AssemblyReference.cache
+C:\Users\garci\Downloads\Parcial IV\Parcial IV\Obj\obj\Debug\Obj.csproj.SuggestedBindingRedirects.cache
+C:\Users\garci\Downloads\Parcial IV\Parcial IV\Obj\obj\Debug\Obj.Form1.resources
+C:\Users\garci\Downloads\Parcial IV\Parcial IV\Obj\obj\Debug\Obj.Properties.Resources.resources
+C:\Users\garci\Downloads\Parcial IV\Parcial IV\Obj\obj\Debug\Obj.csproj.GenerateResource.cache
+C:\Users\garci\Downloads\Parcial IV\Parcial IV\Obj\obj\Debug\Obj.csproj.CoreCompileInputs.cache
+C:\Users\garci\Downloads\Parcial IV\Parcial IV\Obj\obj\Debug\Obj.exe
+C:\Users\garci\Downloads\Parcial IV\Parcial IV\Obj\obj\Debug\Obj.pdb
+D:\Usuarios\Escritorio\Parcial IV V2\Parcial IV\Obj\bin\Debug\Obj.exe.config
+D:\Usuarios\Escritorio\Parcial IV V2\Parcial IV\Obj\bin\Debug\Obj.exe
+D:\Usuarios\Escritorio\Parcial IV V2\Parcial IV\Obj\bin\Debug\Obj.pdb
+D:\Usuarios\Escritorio\Parcial IV V2\Parcial IV\Obj\obj\Debug\Obj.csproj.AssemblyReference.cache
+D:\Usuarios\Escritorio\Parcial IV V2\Parcial IV\Obj\obj\Debug\Obj.csproj.SuggestedBindingRedirects.cache
+D:\Usuarios\Escritorio\Parcial IV V2\Parcial IV\Obj\obj\Debug\Obj.Form1.resources
+D:\Usuarios\Escritorio\Parcial IV V2\Parcial IV\Obj\obj\Debug\Obj.Properties.Resources.resources
+D:\Usuarios\Escritorio\Parcial IV V2\Parcial IV\Obj\obj\Debug\Obj.csproj.GenerateResource.cache
+D:\Usuarios\Escritorio\Parcial IV V2\Parcial IV\Obj\obj\Debug\Obj.csproj.CoreCompileInputs.cache
+D:\Usuarios\Escritorio\Parcial IV V2\Parcial IV\Obj\obj\Debug\Obj.exe
+D:\Usuarios\Escritorio\Parcial IV V2\Parcial IV\Obj\obj\Debug\Obj.pdb
+D:\Usuarios\Escritorio\Parcial IV V2 - Original\Parcial IV\Obj\bin\Debug\Obj.exe.config
+D:\Usuarios\Escritorio\Parcial IV V2 - Original\Parcial IV\Obj\bin\Debug\Obj.exe
+D:\Usuarios\Escritorio\Parcial IV V2 - Original\Parcial IV\Obj\bin\Debug\Obj.pdb
+D:\Usuarios\Escritorio\Parcial IV V2 - Original\Parcial IV\Obj\obj\Debug\Obj.csproj.AssemblyReference.cache
+D:\Usuarios\Escritorio\Parcial IV V2 - Original\Parcial IV\Obj\obj\Debug\Obj.csproj.SuggestedBindingRedirects.cache
+D:\Usuarios\Escritorio\Parcial IV V2 - Original\Parcial IV\Obj\obj\Debug\Obj.Form1.resources
+D:\Usuarios\Escritorio\Parcial IV V2 - Original\Parcial IV\Obj\obj\Debug\Obj.Properties.Resources.resources
+D:\Usuarios\Escritorio\Parcial IV V2 - Original\Parcial IV\Obj\obj\Debug\Obj.csproj.GenerateResource.cache
+D:\Usuarios\Escritorio\Parcial IV V2 - Original\Parcial IV\Obj\obj\Debug\Obj.csproj.CoreCompileInputs.cache
+D:\Usuarios\Escritorio\Parcial IV V2 - Original\Parcial IV\Obj\obj\Debug\Obj.exe
+D:\Usuarios\Escritorio\Parcial IV V2 - Original\Parcial IV\Obj\obj\Debug\Obj.pdb
+C:\Users\fernandahernandez\Desktop\Parcial IV V2\Parcial IV\Obj\bin\Debug\Obj.exe.config
+C:\Users\fernandahernandez\Desktop\Parcial IV V2\Parcial IV\Obj\bin\Debug\Obj.exe
+C:\Users\fernandahernandez\Desktop\Parcial IV V2\Parcial IV\Obj\bin\Debug\Obj.pdb
+C:\Users\fernandahernandez\Desktop\Parcial IV V2\Parcial IV\Obj\obj\Debug\Obj.csproj.AssemblyReference.cache
+C:\Users\fernandahernandez\Desktop\Parcial IV V2\Parcial IV\Obj\obj\Debug\Obj.csproj.SuggestedBindingRedirects.cache
+C:\Users\fernandahernandez\Desktop\Parcial IV V2\Parcial IV\Obj\obj\Debug\Obj.Form1.resources
+C:\Users\fernandahernandez\Desktop\Parcial IV V2\Parcial IV\Obj\obj\Debug\Obj.Properties.Resources.resources
+C:\Users\fernandahernandez\Desktop\Parcial IV V2\Parcial IV\Obj\obj\Debug\Obj.csproj.GenerateResource.cache
+C:\Users\fernandahernandez\Desktop\Parcial IV V2\Parcial IV\Obj\obj\Debug\Obj.csproj.CoreCompileInputs.cache
+C:\Users\fernandahernandez\Desktop\Parcial IV V2\Parcial IV\Obj\obj\Debug\Obj.exe
+C:\Users\fernandahernandez\Desktop\Parcial IV V2\Parcial IV\Obj\obj\Debug\Obj.pdb
+C:\Users\fernandahernandez\Desktop\Parcial IV V2-clip\Parcial IV\Obj\obj\Debug\Obj.csproj.AssemblyReference.cache
+C:\Users\fernandahernandez\Desktop\Parcial IV V2-clip\Parcial IV\Obj\obj\Debug\Obj.csproj.SuggestedBindingRedirects.cache
+C:\Users\fernandahernandez\Desktop\Parcial IV V2-clip\Parcial IV\Obj\obj\Debug\Obj.Form1.resources
+C:\Users\fernandahernandez\Desktop\Parcial IV V2-clip\Parcial IV\Obj\obj\Debug\Obj.Properties.Resources.resources
+C:\Users\fernandahernandez\Desktop\Parcial IV V2-clip\Parcial IV\Obj\obj\Debug\Obj.csproj.GenerateResource.cache
+C:\Users\fernandahernandez\Desktop\Parcial IV V2-clip\Parcial IV\Obj\obj\Debug\Obj.csproj.CoreCompileInputs.cache
+C:\Users\fernandahernandez\Desktop\Parcial IV V2-clip\Parcial IV\Obj\obj\Debug\Obj.exe
+C:\Users\fernandahernandez\Desktop\Parcial IV V2-clip\Parcial IV\Obj\obj\Debug\Obj.pdb
+C:\Users\fernandahernandez\Desktop\Parcial IV V2-clip\Parcial IV\Obj\bin\Debug\Obj.exe.config
+C:\Users\fernandahernandez\Desktop\Parcial IV V2-clip\Parcial IV\Obj\bin\Debug\Obj.exe
+C:\Users\fernandahernandez\Desktop\Parcial IV V2-clip\Parcial IV\Obj\bin\Debug\Obj.pdb
+D:\Usuarios\Escritorio\Parcial IV V2-buff\Parcial IV\Obj\bin\Debug\Obj.exe.config
+D:\Usuarios\Escritorio\Parcial IV V2-buff\Parcial IV\Obj\bin\Debug\Obj.exe
+D:\Usuarios\Escritorio\Parcial IV V2-buff\Parcial IV\Obj\bin\Debug\Obj.pdb
+D:\Usuarios\Escritorio\Parcial IV V2-buff\Parcial IV\Obj\obj\Debug\Obj.csproj.AssemblyReference.cache
+D:\Usuarios\Escritorio\Parcial IV V2-buff\Parcial IV\Obj\obj\Debug\Obj.csproj.SuggestedBindingRedirects.cache
+D:\Usuarios\Escritorio\Parcial IV V2-buff\Parcial IV\Obj\obj\Debug\Obj.Form1.resources
+D:\Usuarios\Escritorio\Parcial IV V2-buff\Parcial IV\Obj\obj\Debug\Obj.Properties.Resources.resources
+D:\Usuarios\Escritorio\Parcial IV V2-buff\Parcial IV\Obj\obj\Debug\Obj.csproj.GenerateResource.cache
+D:\Usuarios\Escritorio\Parcial IV V2-buff\Parcial IV\Obj\obj\Debug\Obj.csproj.CoreCompileInputs.cache
+D:\Usuarios\Escritorio\Parcial IV V2-buff\Parcial IV\Obj\obj\Debug\Obj.exe
+D:\Usuarios\Escritorio\Parcial IV V2-buff\Parcial IV\Obj\obj\Debug\Obj.pdb
